@@ -1,0 +1,14 @@
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.deps.json
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.runtimeconfig.json
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.runtimeconfig.dev.json
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.dll
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.pdb
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.csprojAssemblyReference.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.RazorAssemblyInfo.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.RazorAssemblyInfo.cs
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.AssemblyInfo.cs
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.RazorTargetAssemblyInfo.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.dll
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.pdb
