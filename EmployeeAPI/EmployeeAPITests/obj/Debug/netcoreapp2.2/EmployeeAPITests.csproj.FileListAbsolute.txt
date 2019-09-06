@@ -1,0 +1,11 @@
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\EmployeeAPITests.deps.json
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\EmployeeAPITests.runtimeconfig.json
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\EmployeeAPITests.runtimeconfig.dev.json
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\bin\Debug\netcoreapp2.2\EmployeeAPITests.dll
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\obj\Debug\netcoreapp2.2\EmployeeAPITests.csprojAssemblyReference.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\obj\Debug\netcoreapp2.2\EmployeeAPITests.csproj.CoreCompileInputs.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\obj\Debug\netcoreapp2.2\EmployeeAPITests.AssemblyInfoInputs.cache
+C:\Sundesh\Training\Week 7\06.09.2019\EmployeeAPI\src\EmployeeAPI\EmployeeAPITests\obj\Debug\netcoreapp2.2\EmployeeAPITests.AssemblyInfo.cs
